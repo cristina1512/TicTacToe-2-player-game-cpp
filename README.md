@@ -9,6 +9,7 @@ write their inputs. For simplicity, the numbers of the rows and collums are from
 To test the implementation and to play the game, run in the terminal the following commands:
     make
     ./tictactoepvp
+
 For the input to be valid, the player must write in the terminal in the following order:
     number_row number_collumn
 
