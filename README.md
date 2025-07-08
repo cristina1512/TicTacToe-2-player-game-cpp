@@ -12,6 +12,7 @@ To test the implementation and to play the game, run in the terminal the followi
     ./tictactoepvp
 
 For the input to be valid, the player must write in the terminal in the following order:
+    
     number_row number_collumn
 
 If the input is not valid, an error message will appear, giving the player another chance to write where they want their symbol to be put.
