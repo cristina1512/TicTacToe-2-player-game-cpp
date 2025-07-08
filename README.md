@@ -7,6 +7,7 @@ The game is played in the terminal, with the classic design of the board being f
 write their inputs. For simplicity, the numbers of the rows and collums are from 1 to 3.
 
 To test the implementation and to play the game, run in the terminal the following commands:
+    
     make
     ./tictactoepvp
 
